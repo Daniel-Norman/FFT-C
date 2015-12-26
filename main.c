@@ -8,9 +8,6 @@
 
 #include <stdio.h>
 #include <complex.h>
-#include <stdlib.h>
-#include <sys/time.h>
-#include <math.h>
 #include "fft.h"
 
 #define FFT_SIZE (1 << 2)
